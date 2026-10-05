@@ -1,2 +1,4 @@
-# Drosophelia_Connectome_2
-A sequel to my Drosophilia Connectome Saga
+# Fruit flies *still* might think in Spectral MoE...
+![3d render of a fly](./Images/flypoly.jpg)
+### A sequel to my Drosophilia Connectome Exploration
+
